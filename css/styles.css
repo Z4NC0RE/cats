@@ -19,10 +19,13 @@ body {
 
 header {
     background-color: #804720;
+    text-align: center;
 }
 
 h1 {
-
+    font-size: 3em;
+    font-weight: bold;
+    color: #E76A1A;
 }
 
 h2 {
