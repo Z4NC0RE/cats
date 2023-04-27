@@ -17,6 +17,10 @@ body {
 
 }
 
+header {
+    background-color: #804720;
+}
+
 h1 {
 
 }
@@ -29,6 +33,20 @@ blockquote {
 
 }
 
-table {
+main {
     
+}
+
+
+
+table {
+
+}
+
+footer {
+    background-color: #804720;
+}
+
+footer nav {
+    background-color: #804720;
 }
