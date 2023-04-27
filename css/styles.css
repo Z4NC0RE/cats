@@ -37,7 +37,15 @@ main {
     
 }
 
-
+#container {
+    padding: 3% 0;
+    margin: 0 auto;
+    width: 80%;
+    min-height: 500px;
+    font-size: 2em;
+    background-color: #5C3317;
+    color: #E76A1A;
+}
 
 table {
 
