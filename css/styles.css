@@ -59,7 +59,10 @@ table {
     padding: 10px;
 }
 
-
+.greycatIMG {
+    float: right;
+    padding: 10px;
+}
 
 .catwalkingImg {
     float: right;
