@@ -14,7 +14,7 @@ COLORS:
 }
 
 body {
-
+    background-color: #5C3317;
 }
 
 header {
@@ -54,10 +54,35 @@ table {
 
 }
 
+.catImg1 {
+    float: right;
+    padding: 10px;
+}
+
 footer {
     background-color: #804720;
 }
 
 footer nav {
     background-color: #804720;
+}
+
+footer nav ul {
+
+}
+
+footer nav ul li {
+
+}
+
+footer nav ul li a {
+
+}
+
+footer nav ul li:hover {
+
+}
+
+footer nav ul li a:hover {
+
 }
