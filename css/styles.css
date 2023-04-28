@@ -54,6 +54,10 @@ h3 {
     font-size: 2em;
 }
 
+h4 {
+    font-size: 1.5em;
+}
+
 table {
 
 }
@@ -70,6 +74,16 @@ table {
 
 .catwalkingImg {
     float: right;
+    padding: 10px;
+}
+
+.catlooking {
+    float: right;
+    padding: 10px;
+}
+
+.catlayingdown {
+    float: left;
     padding: 10px;
 }
 
