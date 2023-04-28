@@ -90,7 +90,7 @@ input {
     width: 10em;
 }
 
-.frmButton:hover {
+.frmButton:active {
     background-color: #E76A1A;
     color:#5C3317;
 }
@@ -128,7 +128,7 @@ input {
 }
 
 .catwalkingImg2 {
-    float: left;
+    float: right;
     padding: 10px;
     height: 400px;
     width: 450px;
