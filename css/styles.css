@@ -85,6 +85,8 @@ table {
 .catlayingdown {
     float: left;
     padding: 10px;
+    height: 500px;
+    width: 550px;
 }
 
 .kittyLaptop {
