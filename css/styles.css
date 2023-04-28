@@ -100,24 +100,32 @@ footer {
 
 footer nav {
     background-color: #804720;
+    padding: 5px 0;
+    width: 100%;
+    min-height: 50px;
 }
 
 footer nav ul {
-
+    background-color: #804720;
+    display: block;
+    text-align: center;
 }
 
 footer nav ul li {
-
+    display: inline-block;
+    list-style: none;
+    width: 15%;
+    background-color: #804720;
+    margin-top: .8%;
 }
 
 footer nav ul li a {
-
+    text-decoration: none;
+    font-size: 1.5em;
+    color: #E76A1A
 }
 
 footer nav ul li:hover {
-
-}
-
-footer nav ul li a:hover {
-
+    background-color: #F7A26C;
+    text-decoration: underline;
 }
